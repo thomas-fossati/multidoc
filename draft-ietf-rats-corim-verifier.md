@@ -19,11 +19,11 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "CoRIM Verifier"
+abbrev: "TODO"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-ietf-rats-corim-verifier-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
