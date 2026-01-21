@@ -1,0 +1,4 @@
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-ietf-rats-corim-data-model.md thomas.fossati@linaro.org
+draft-ietf-rats-corim-verifier.md thomas.fossati@linaro.org
